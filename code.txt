@@ -1,1 +1,5 @@
-dale funciona perro
+git init
+git status
+git add "lo que subo"
+git commit  -m "mensaje de lo que subi"
+git push -u origin master
