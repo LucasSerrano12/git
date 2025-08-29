@@ -3,3 +3,17 @@ git status
 git add "lo que subo"
 git commit  -m "mensaje de lo que subi"
 git push -u origin master
+
+
+git branch = que rama estoy
+git branch rama1= creo una rama.
+git checkout rama1= paso a la otra rama
+touch "texto.txt" = creo un txt en la rama1
+git add . = confirmo lo que agregue
+git commit -m "dejo un msj"
+git diff master rama1= "diferencias que hay entre una y otra rama
+git merge rama master= pasa la version de la rama1 a la vieja version para que esten iguales.
+git add.
+git commit -m cambiomaster
+
+
